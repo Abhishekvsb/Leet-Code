@@ -7,8 +7,21 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekvsb/Leet-Code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekvsb/Leet-Code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 <!---LeetCode Topics End-->
