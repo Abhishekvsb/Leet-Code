@@ -9,6 +9,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekvsb/Leet-Code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishekvsb/Leet-Code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -26,4 +27,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+## Sorting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 <!---LeetCode Topics End-->
