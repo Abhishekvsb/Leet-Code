@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishekvsb/Leet-Code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhishekvsb/Leet-Code/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -35,4 +36,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1991-find-the-middle-index-in-array](https://github.com/Abhishekvsb/Leet-Code/tree/main/1991-find-the-middle-index-in-array/) | Easy |
 <!---LeetCode Topics End-->
