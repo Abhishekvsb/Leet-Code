@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0867-transpose-matrix/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishekvsb/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekvsb/Leet-Code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
@@ -32,6 +33,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0867-transpose-matrix/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |
@@ -58,6 +60,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0766-toeplitz-matrix/) | Easy |
+| [0867-transpose-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/Abhishekvsb/Leet-Code/tree/main/1672-richest-customer-wealth/) | Easy |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
