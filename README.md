@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishekvsb/Leet-Code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Abhishekvsb/Leet-Code/tree/main/1984-minimum-difference-between-highest-and-lowest-of-k-scores/) | Easy |
 | [1991-find-the-middle-index-in-array](https://github.com/Abhishekvsb/Leet-Code/tree/main/1991-find-the-middle-index-in-array/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -57,4 +58,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0766-toeplitz-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0766-toeplitz-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/1572-matrix-diagonal-sum/) | Easy |
+| [2319-check-if-matrix-is-x-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/2319-check-if-matrix-is-x-matrix/) | Easy |
 <!---LeetCode Topics End-->
