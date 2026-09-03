@@ -7,6 +7,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishekvsb/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+| [1572-matrix-diagonal-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Abhishekvsb/Leet-Code/tree/main/1662-check-if-two-string-arrays-are-equivalent/) | Easy |
 | [1700-number-of-students-unable-to-eat-lunch](https://github.com/Abhishekvsb/Leet-Code/tree/main/1700-number-of-students-unable-to-eat-lunch/) | Easy |
 | [1967-number-of-strings-that-appear-as-substrings-in-word](https://github.com/Abhishekvsb/Leet-Code/tree/main/1967-number-of-strings-that-appear-as-substrings-in-word/) | Easy |
@@ -50,4 +51,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Abhishekvsb/Leet-Code/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1572-matrix-diagonal-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/1572-matrix-diagonal-sum/) | Easy |
 <!---LeetCode Topics End-->
