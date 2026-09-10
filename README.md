@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0228-summary-ranges](https://github.com/Abhishekvsb/Leet-Code/tree/main/0228-summary-ranges/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishekvsb/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0766-toeplitz-matrix/) | Easy |
 | [0867-transpose-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0867-transpose-matrix/) | Easy |
