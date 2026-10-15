@@ -6,6 +6,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0228-summary-ranges](https://github.com/Abhishekvsb/Leet-Code/tree/main/0228-summary-ranges/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Abhishekvsb/Leet-Code/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0766-toeplitz-matrix](https://github.com/Abhishekvsb/Leet-Code/tree/main/0766-toeplitz-matrix/) | Easy |
@@ -64,6 +65,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0001-two-sum](https://github.com/Abhishekvsb/Leet-Code/tree/main/0001-two-sum/) | Easy |
 | [0205-isomorphic-strings](https://github.com/Abhishekvsb/Leet-Code/tree/main/0205-isomorphic-strings/) | Easy |
 | [0242-valid-anagram](https://github.com/Abhishekvsb/Leet-Code/tree/main/0242-valid-anagram/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/Abhishekvsb/Leet-Code/tree/main/0387-first-unique-character-in-a-string/) | Easy |
